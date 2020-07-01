@@ -1,4 +1,4 @@
-**#30 DAYS OF JS**
+**# 30 DAYS OF JS**
 
 This is the part of 30 Days of JS [link](https://javascript30.com/)
 
