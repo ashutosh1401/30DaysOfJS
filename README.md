@@ -16,3 +16,8 @@ also learned little about CSS transitions.
 
 Just done a exercise to update the CSS variables using JS.
 Learned about CSS variables and change according to the input using JS.
+
+## **DAY - 4**
+
+Just learn about different Array methods such as Array.filter(), Array.reduce(), Array.sort(), Array.map().
+Practiced them with the exercises given in the course
