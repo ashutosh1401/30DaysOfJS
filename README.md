@@ -21,3 +21,12 @@ Learned about CSS variables and change according to the input using JS.
 
 Just learn about different Array methods such as Array.filter(), Array.reduce(), Array.sort(), Array.map().
 Practiced them with the exercises given in the course
+
+## **DAY - 5**
+
+Learned about flexbox and different flex propertie and used JS DOM manipulations to make flex panels and toggle them.
+
+## **DAY - 6**
+
+Learned about AJAX and RegExp and fetch to extract data from json file and find it using html.
+Also used various Array Methods
