@@ -30,3 +30,8 @@ Learned about flexbox and different flex propertie and used JS DOM manipulations
 
 Learned about AJAX and RegExp and fetch to extract data from json file and find it using html.
 Also used various Array Methods
+
+## **DAY - 7**
+
+Worked on different Array methods such as Array.find(), Array.splice(), Array.every(), Array.some().
+Expanded knowledge on Array methods.
