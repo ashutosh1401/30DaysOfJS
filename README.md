@@ -35,3 +35,7 @@ Also used various Array Methods
 
 Worked on different Array methods such as Array.find(), Array.splice(), Array.every(), Array.some().
 Expanded knowledge on Array methods.
+
+## **DAY - 8**
+
+Learned about HTML canvas and made a interseting small canvas using it.
