@@ -39,3 +39,8 @@ Expanded knowledge on Array methods.
 ## **DAY - 8**
 
 Learned about HTML canvas and made a interseting small canvas using it.
+
+## **DAY - 9**
+
+Learned about different dev tools and used various console methods.
+Console methods such as console.warn(), console.error(), console.info(), console.group(),console.time() etc.
