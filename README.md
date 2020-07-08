@@ -44,3 +44,7 @@ Learned about HTML canvas and made a interseting small canvas using it.
 
 Learned about different dev tools and used various console methods.
 Console methods such as console.warn(), console.error(), console.info(), console.group(),console.time() etc.
+
+## **DAY - 10**
+
+Learned to use DOM methods to hold shift to check multiple Checkboxes.
