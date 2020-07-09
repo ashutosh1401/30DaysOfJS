@@ -48,3 +48,7 @@ Console methods such as console.warn(), console.error(), console.info(), console
 ## **DAY - 10**
 
 Learned to use DOM methods to hold shift to check multiple Checkboxes.
+
+## **DAY - 11**
+
+Learned to make a video player and added features such as volume Button, skip Button, update BUtton, toggle and fullscreen.
