@@ -52,3 +52,7 @@ Learned to use DOM methods to hold shift to check multiple Checkboxes.
 ## **DAY - 11**
 
 Learned to make a video player and added features such as volume Button, skip Button, update BUtton, toggle and fullscreen.
+
+## **DAY - 12**
+
+Made a key code detection which broughts changes in the screen when the particular key sequence is typed.
