@@ -56,3 +56,14 @@ Learned to make a video player and added features such as volume Button, skip Bu
 ## **DAY - 12**
 
 Made a key code detection which broughts changes in the screen when the particular key sequence is typed.
+
+## **DAY - 13**
+
+Made a webpage where the images come sliding in the frame when you are near it . Used Dom manipulations to get work on it.
+
+## **DAY - 14**
+
+Learn about how to copy arrays and and objects in JS.
+how to prevent referencing in the arrrays and different methods of copying such as
+`Array.slice(), Array.from(), [].concat(Array)` and `[..Array]`
+Also Learn to copy objects with the help of `Object.assign()` and `{... object}` .
