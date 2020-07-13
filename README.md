@@ -67,3 +67,8 @@ Learn about how to copy arrays and and objects in JS.
 how to prevent referencing in the arrrays and different methods of copying such as
 `Array.slice()`, `Array.from()`, `[].concat(Array)` and `[..Array]`
 Also Learn to copy objects with the help of `Object.assign()` and `{... object}` .
+
+## **DAY - 15**
+
+Learned about localStorage and Event delegation.
+Also used `localStorage.setItem()` .
