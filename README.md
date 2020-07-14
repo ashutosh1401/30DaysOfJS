@@ -72,3 +72,7 @@ Also Learn to copy objects with the help of `Object.assign()` and `{... object}`
 
 Learned about localStorage and Event delegation.
 Also used `localStorage.setItem()` .
+
+## **DAY - 16**
+
+Made a mouse shadow property using DOM and text shadow
