@@ -76,3 +76,8 @@ Also used `localStorage.setItem()` .
 ## **DAY - 16**
 
 Made a mouse shadow property using DOM and text shadow
+
+## **DAY - 17**
+
+Completed a challenge in sorting an array excluding Articles(a,an,the).
+printed the Sorted Array on the screen
