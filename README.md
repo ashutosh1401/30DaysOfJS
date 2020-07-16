@@ -79,5 +79,10 @@ Made a mouse shadow property using DOM and text shadow
 
 ## **DAY - 17**
 
-Completed a challenge in sorting an array excluding Articles(a,an,the).
+Completed a challenge in sorting an array excluding Articles(a,an,the). Used `Array.sort()`
 printed the Sorted Array on the screen
+
+## **DAY - 18**
+
+Completed a challenge of counting the whole time of videos in a list and print out in form of hours,minutes,seconds.
+Used `Array.map()` and `Array.reduce()` .
