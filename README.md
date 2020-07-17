@@ -86,3 +86,8 @@ printed the Sorted Array on the screen
 
 Completed a challenge of counting the whole time of videos in a list and print out in form of hours,minutes,seconds.
 Used `Array.map()` and `Array.reduce()` .
+
+## **DAY - 19**
+
+Learned to use webcam using `navigator.mediaDevices.getUserMedia()` Also used varoius JavaScript Methods to add filters in the webcam.
+Also It can click photo and you can download it .
