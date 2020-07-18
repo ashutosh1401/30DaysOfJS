@@ -91,3 +91,7 @@ Used `Array.map()` and `Array.reduce()` .
 
 Learned to use webcam using `navigator.mediaDevices.getUserMedia()` Also used varoius JavaScript Methods to add filters in the webcam.
 Also It can click photo and you can download it .
+
+## **DAY - 20**
+
+Learned about speechRecognition API and used it to make a simple application.
