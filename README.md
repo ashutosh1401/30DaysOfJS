@@ -95,3 +95,7 @@ Also It can click photo and you can download it .
 ## **DAY - 20**
 
 Learned about speechRecognition API and used it to make a simple application.
+
+## **DAY - 21**
+
+Also used inbuild Javascript geolocation API to make a speedometer and a compass.
