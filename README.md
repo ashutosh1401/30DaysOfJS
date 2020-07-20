@@ -99,3 +99,7 @@ Learned about speechRecognition API and used it to make a simple application.
 ## **DAY - 21**
 
 Also used inbuild Javascript geolocation API to make a speedometer and a compass.
+
+## **DAY - 22**
+
+Just completed a challenge on highlighting the links as we enter the mouse in it
