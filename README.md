@@ -103,3 +103,8 @@ Also used inbuild Javascript geolocation API to make a speedometer and a compass
 ## **DAY - 22**
 
 Just completed a challenge on highlighting the links as we enter the mouse in it
+
+## **DAY - 22**
+
+Learned about speechSynthesis API and converted text to speech.
+Also brought changes in pitch and speed of the voice.
