@@ -104,7 +104,11 @@ Also used inbuild Javascript geolocation API to make a speedometer and a compass
 
 Just completed a challenge on highlighting the links as we enter the mouse in it
 
-## **DAY - 22**
+## **DAY - 23**
 
 Learned about speechSynthesis API and converted text to speech.
 Also brought changes in pitch and speed of the voice.
+
+## **DAY - 24**
+
+Learned to how to set a fixed navbar using javascript.
