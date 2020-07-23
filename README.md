@@ -112,3 +112,8 @@ Also brought changes in pitch and speed of the voice.
 ## **DAY - 24**
 
 Learned to how to set a fixed navbar using javascript.
+
+## **DAY - 25**
+
+Learned about different topics such as Event propogation, bubbling, capturing and once.
+Used `e.stopPropagation()` to stop capturing.
