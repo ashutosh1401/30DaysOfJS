@@ -117,3 +117,7 @@ Learned to how to set a fixed navbar using javascript.
 
 Learned about different topics such as Event propogation, bubbling, capturing and once.
 Used `e.stopPropagation()` to stop capturing.
+
+## **DAY - 26**
+
+Made a follow along dropdown using JavaScript. used `getBoundingClientRect()` to get coordinates of components .
