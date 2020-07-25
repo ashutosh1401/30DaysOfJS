@@ -121,3 +121,7 @@ Used `e.stopPropagation()` to stop capturing.
 ## **DAY - 26**
 
 Made a follow along dropdown using JavaScript. used `getBoundingClientRect()` to get coordinates of components .
+
+## **DAY - 27**
+
+Made a Click and drag page using JavaScript. Used JS DOM methods.
