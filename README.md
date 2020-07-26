@@ -125,3 +125,7 @@ Made a follow along dropdown using JavaScript. used `getBoundingClientRect()` to
 ## **DAY - 27**
 
 Made a Click and drag page using JavaScript. Used JS DOM methods.
+
+## **DAY - 28**
+
+Made a video speed controller UI.
