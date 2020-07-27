@@ -129,3 +129,7 @@ Made a Click and drag page using JavaScript. Used JS DOM methods.
 ## **DAY - 28**
 
 Made a video speed controller UI.
+
+## **DAY - 29**
+
+Made a countdown timer with additional features such as specified timer .
