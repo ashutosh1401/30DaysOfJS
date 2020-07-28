@@ -133,3 +133,9 @@ Made a video speed controller UI.
 ## **DAY - 29**
 
 Made a countdown timer with additional features such as specified timer .
+
+## **DAY - 30**
+
+Made a whack a Mole game. Used DOM manipulations learned till now.
+
+#### 30 Days JS Challenge Finished
