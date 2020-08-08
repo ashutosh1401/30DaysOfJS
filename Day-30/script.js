@@ -42,3 +42,22 @@ function bonk(e) {
   scoreBoard.textContent = score;
 }
 moles.forEach((mole) => mole.addEventListener("click", bonk));
+
+const form = document.querySelector("form");
+const input = document.querySelector("input");
+let scores = JSON.parse(localStorage.getItem("scores")) || [];
+function scorepoint() {
+  form.addEventListener("submit", (e) => {
+    e.preventDefault();
+    console.log(e, input.value);
+    let name = input.value;
+    const score = {
+      name,
+      points: scoreBoard.textContent,
+    };
+    scores.push(score);
+    localStorage.setItem("scores", JSON.stringify(scores));
+  });
+}
+
+scorepoint();
