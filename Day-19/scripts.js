@@ -99,6 +99,5 @@ function greenScreen(pixels) {
   return pixels;
 }
 
-function blackWhite(pixels) {}
 getVideo();
 video.addEventListener("canplay", paintTheCanvas);
